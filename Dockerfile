@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240427
+FROM ubuntu:mantic-20240530
 SHELL ["/bin/bash", "-c"]
 
 ARG TZ="UTC"
